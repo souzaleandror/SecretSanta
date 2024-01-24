@@ -1,0 +1,4 @@
+#Tue Jan 23 00:16:11 CET 2024
+base.0=/Users/leandrorodrigues/Desktop/alura2023/Flutter_AplicandoIntegracaoContinua/SecretSanta/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

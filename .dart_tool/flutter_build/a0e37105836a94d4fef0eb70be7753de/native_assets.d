@@ -1,0 +1,1 @@
+ /Users/leandrorodrigues/Desktop/alura2023/Flutter_AplicandoIntegracaoContinua/SecretSanta/.dart_tool/flutter_build/a0e37105836a94d4fef0eb70be7753de/native_assets.yaml: 
